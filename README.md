@@ -5,14 +5,16 @@ w - jump
 <br>
 a - left
 <br>
-s - go down event blocks
+s - go down event blocks (some green rectangular blocks in the level)
 <br>
 d - right
 
 ## Mechanics + Notes
+* Player controls will register once the level starts (ie. the controls will not register if you press/hold the keys before the level starts)
 * Player can jump indefinently off of vertical surfaces
 * Yellow block is checkpoint
-* Gray block is goal
+* Tall gray block is goal
+* Small gray block with number on it is a health item
 * Press **p** mid-level to pause
 
 ## Menu
