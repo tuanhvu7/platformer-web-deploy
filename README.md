@@ -23,4 +23,8 @@ d - right
 * Press **c** on the level select menu switch between start at beginning (green panel) and start at checkpoint (peach panel) of level
 * Note: **u, l, p, c** are reserved keys; you cannot set the controls to these keys
 
+## Credits
+* Level song is [Monkeys Spinning Monkeys](https://www.youtube.com/watch?v=uXn-zOt68V8) by Kevin MacLeod
+* Level complete song is [Main Theme - VRChat](https://www.youtube.com/watch?v=yO4S5fyBv8k) by SilvaGunna
+
 [Link to game](https://tuanhvu7.github.io/platformer-web-deploy/)
