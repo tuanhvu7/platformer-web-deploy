@@ -22,3 +22,5 @@ d - right
 * Press **l** on the player control config menu to go to the level select menu
 * Press **c** on the level select menu switch between start at beginning (green panel) and start at checkpoint (peach panel) of level
 * Note: **u, l, p, c** are reserved keys; you cannot set the controls to these keys
+
+[Link to game](https://tuanhvu7.github.io/platformer-web-deploy/)
