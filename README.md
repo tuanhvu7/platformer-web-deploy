@@ -10,6 +10,7 @@ s - go down event blocks (some green rectangular blocks in the level)
 d - right
 
 ## Mechanics + Notes
+* **You are the black circle with a number in the middle**
 * Player controls will register once the level starts (ie. the controls will not register if you press/hold the keys before the level starts)
 * Player can jump indefinently off of vertical surfaces
 * Yellow block is checkpoint
